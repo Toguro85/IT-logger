@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "sjbavbjln;mld",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-02-11T14:39:11.500Z",
-      "id": 3
-    },
-    {
       "message": "hvskbvvjdsba",
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2020-02-11T14:39:19.900Z",
       "id": 4
+    },
+    {
+      "message": "cdffbsgbf",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-02-12T16:58:18.600Z",
+      "id": 5
     }
   ],
   "techs": [
